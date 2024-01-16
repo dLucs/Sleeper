@@ -5,3 +5,5 @@ The app collects raw data from the user, such as when they want to wake up, how 
 This data is then fed into Core ML to get a result telling the user when they should go to bed. 
 With billions of possible answers, machine learning comes in handy. 
 Using regression analysis, the computer can come up with an algorithm that represents all the data, allowing it to apply the algorithm to fresh data it hasn’t seen before and get accurate results.
+
+<img width="331" alt="image" src="https://github.com/dLucs/Sleeper/assets/99974795/cd53b2f9-1b9b-4dc4-b514-6380f1bbedba">

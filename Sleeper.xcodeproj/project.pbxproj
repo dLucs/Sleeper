@@ -11,6 +11,7 @@
 		A061F1922B5157160099173E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A061F1912B5157160099173E /* ContentView.swift */; };
 		A061F1942B5157170099173E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A061F1932B5157170099173E /* Assets.xcassets */; };
 		A061F1972B5157170099173E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A061F1962B5157170099173E /* Preview Assets.xcassets */; };
+		A061F1A02B5690800099173E /* SleepCalculator.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = A061F19F2B5690800099173E /* SleepCalculator.mlpackage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A061F1912B5157160099173E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A061F1932B5157170099173E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A061F1962B5157170099173E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A061F19F2B5690800099173E /* SleepCalculator.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = SleepCalculator.mlpackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A061F18F2B5157160099173E /* SleeperApp.swift */,
 				A061F1912B5157160099173E /* ContentView.swift */,
+				A061F19F2B5690800099173E /* SleepCalculator.mlpackage */,
 				A061F1932B5157170099173E /* Assets.xcassets */,
 				A061F1952B5157170099173E /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				A061F1922B5157160099173E /* ContentView.swift in Sources */,
 				A061F1902B5157160099173E /* SleeperApp.swift in Sources */,
+				A061F1A02B5690800099173E /* SleepCalculator.mlpackage in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
